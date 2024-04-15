@@ -81,9 +81,11 @@ else:
     print("Element found at index: ",res)
 
 
-
-
 ```
+# Developed by : GUGHAN S
+# Register Number : 212223240043
+
+
 ## Sample Input and Output:
 
 ![alt text](<Screenshot 2024-04-15 184130.png>)
